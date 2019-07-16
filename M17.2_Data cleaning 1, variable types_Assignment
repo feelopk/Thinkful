@@ -1,0 +1,11 @@
+Assignment
+
+1. Consider the advantages and disadvantages of treating the Rank variable as categorical. Discuss your arguments with your mentor.
+-> The big difference between two variables is limitation. Continuous variable is infinite, but Catergorical variable is finite.
+
+2. What are the types of the following variables?
+ - Age : Continuouls variable, Interval.
+ - Salary : Continuouls variable, Interval or Categorical varibale, Ordinal.
+ - Revenue : Categorical variable, Nominal.
+ - Customer type : Categorical variable, Nominal.
+ - Stock price : Continuous variable, Interval or Categorical variable, Ordinal.
